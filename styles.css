@@ -1,0 +1,26 @@
+body {
+    background: url(images/Screenshot\ 2024-02-12\ at\ 9.25.46\ AM.png);
+    color: white   
+    
+}
+li {
+    display:inline-block;
+    
+}
+a{
+    text-decoration:none;
+    
+}
+
+.button{
+    margin-right:915px;
+}
+section{
+    display:flex;
+}
+img {
+    padding: 10px;
+    background: white;    
+}
+
+
